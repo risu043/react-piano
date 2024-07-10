@@ -2,6 +2,9 @@
 
 - React,typescript,tone.js で作ったピアノ
 - クリックすると音がでる
+- Volume を調節できる
+
+<img src="https://github.com/risu043/react-piano/blob/main/docs/images/piano.png" width="600" alt="piano">
 
 # React + TypeScript + Vite
 
