@@ -1,4 +1,5 @@
 .piano {
   display: flex;
   align-items: start;
+  width: 56em;
 }
