@@ -1,0 +1,18 @@
+.volume-control {
+  margin-top: 20px;
+}
+
+.volume-control label {
+  color: white;
+
+  font-size: 1rem;
+  line-height: 1.6;
+  letter-spacing: 0.1em;
+  font-family: 'Baskerville', 'Baskerville Old Face', 'Garamond',
+    'Times New Roman', serif;
+  margin-bottom: 1rem 1rem 0 0;
+}
+
+.volume-control input[type='range'] {
+  vertical-align: middle;
+}

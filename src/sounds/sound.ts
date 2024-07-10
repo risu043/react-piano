@@ -1,0 +1,28 @@
+import { PianoKey } from '../types';
+
+export const pianoKeys: PianoKey[] = [
+  { note: 'F3', color: 'white' },
+  { note: 'F#3', color: 'black' },
+  { note: 'G3', color: 'white' },
+  { note: 'G#3', color: 'black' },
+  { note: 'A3', color: 'white' },
+  { note: 'A#3', color: 'black' },
+  { note: 'B3', color: 'white' },
+  { note: 'C4', color: 'white' },
+  { note: 'C#4', color: 'black' },
+  { note: 'D4', color: 'white' },
+  { note: 'D#4', color: 'black' },
+  { note: 'E4', color: 'white' },
+  { note: 'F4', color: 'white' },
+  { note: 'F#4', color: 'black' },
+  { note: 'G4', color: 'white' },
+  { note: 'G#4', color: 'black' },
+  { note: 'A4', color: 'white' },
+  { note: 'A#4', color: 'black' },
+  { note: 'B4', color: 'white' },
+  { note: 'C5', color: 'white' },
+  { note: 'C#5', color: 'black' },
+  { note: 'D5', color: 'white' },
+  { note: 'D#5', color: 'black' },
+  { note: 'E5', color: 'white' },
+];

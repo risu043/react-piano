@@ -1,0 +1,9 @@
+body {
+  margin: 0 1rem;
+  display: grid;
+  place-items: center;
+  min-width: 600px;
+  min-height: 100dvh;
+  font-family: 'Baskerville', 'Baskerville Old Face', 'Garamond',
+    'Times New Roman', serif;
+}
